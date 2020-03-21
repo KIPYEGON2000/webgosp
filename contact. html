@@ -1,6 +1,10 @@
 <html>
 
-
+<head>
+<title>my gospel web</title>
+<link rel="stylesheet"type="text/css" href="style.css"/>
+<meta name ="viewpoint"content="width=device-width initial scale=1">
+</head>
 <body>
 <center><h1>KIPYEGON AMOS <h1></center>
 
